@@ -1,0 +1,31 @@
+body {
+    width: 300px;
+}
+
+ul {
+    margin: 0 0 32px 0;
+    padding: 0;
+}
+
+.wishlist-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 12px;
+    box-shadow: 1px 2px 6px #ccc;
+}
+
+.remove-item {
+    cursor: pointer;
+    color: red;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    width: 100%;
+    padding: 8px 12px;
+    text-transform: capitalize;
+}

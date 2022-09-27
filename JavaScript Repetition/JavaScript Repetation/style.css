@@ -1,0 +1,10 @@
+.red{
+    background-color: red;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    cursor: pointer;
+    margin-bottom: 100px;
+}
